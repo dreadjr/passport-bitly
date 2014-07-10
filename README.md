@@ -10,6 +10,7 @@ framework that supports [Connect](http://www.senchalabs.org/connect/)-style
 middleware, including [Express](http://expressjs.com/).
 
 [![Build Status](https://travis-ci.org/dreadjr/passport-bitly.png?branch=master)](https://travis-ci.org/dreadjr/passport-bitly)
+[ ![Codeship Status for dreadjr/passport-bitly](https://codeship.io/projects/c281e970-ea07-0131-79b8-6adfa5171184/status)](https://codeship.io/projects/26287)
 
 ## Install
 
