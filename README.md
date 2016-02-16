@@ -57,8 +57,7 @@ application:
 
 ## Examples
 
-For a complete, working example, refer to the [login example](https://github.com/dreadjr/passport-bitly/tree/master/examples/login).
-
+Developers using the popular [Express](http://expressjs.com/) web framework can refer to an [example](https://github.com/passport/express-4.x-twitter-example) as a starting point for their own web applications.
 
 ## Credits
 
